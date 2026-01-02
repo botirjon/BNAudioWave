@@ -311,4 +311,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## Author
 
-Created by AnotherBrick0
+Created by Botirjon Nasridinov
