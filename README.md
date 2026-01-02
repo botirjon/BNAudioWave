@@ -2,6 +2,8 @@
 
 A powerful SwiftUI audio waveform visualization and player library for iOS, macOS, tvOS, watchOS, and visionOS. Features pre-built styles including Telegram and WhatsApp voice message appearances.
 
+![BNAudioWave Preview](images/preview_screenshot.png)
+
 ## Features
 
 - **Waveform Generation** - Extract amplitude data from audio files using high-performance DSP
